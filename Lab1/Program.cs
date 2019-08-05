@@ -12,6 +12,7 @@ namespace Lab1
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hello From Anita");
+            Console.WriteLine(" lets change againg");
         }
     }
 }
